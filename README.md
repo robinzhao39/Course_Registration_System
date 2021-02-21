@@ -1,6 +1,6 @@
 # Course_Registration_System
 
-This project creates a usable course registration system for a given university. The program has two interfaces: one for the Administrator and one for students. For the administrator, after entering the correct username and passcode, the administrator can perform the following actions:
+This project creates a usable course registration system for a university. The program has two interfaces: one for the Administrator and one for students. For the administrator, after entering the correct username and passcode, the administrator can perform the following actions:
   1. Course Management:
       1. Create a new course
       2. Delete a course
