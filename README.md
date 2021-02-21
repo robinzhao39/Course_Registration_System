@@ -18,6 +18,7 @@ This project creates a usable course registration system for a given university.
       7. Exit
    
 For the student interface, after entering a matching username and passcode, the user is able to perform the following actions:
+  1.Course Enrollment
       1.View All Courses
       2.View all courses that are not full
       3.Register in a course
